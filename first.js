@@ -13,3 +13,4 @@ function updateBalance(){
 updateBalance();
 
 console.log(amount);
+console.log("me hu hero tera");
