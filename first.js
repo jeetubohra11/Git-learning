@@ -11,3 +11,5 @@ function updateBalance(){
     amount+=20;
 }
 updateBalance();
+
+console.log(amount);
