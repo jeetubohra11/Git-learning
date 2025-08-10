@@ -6,3 +6,11 @@ console.log(login);
 
 const footer="footer added in our website";
 console.log(footer);
+console.log(footer);
+const payment="integrating the payment gateway";
+console.log(payment);
+
+const upi="Integrated the UPI";
+console.log(upi);
+
+console.log("latest update");
